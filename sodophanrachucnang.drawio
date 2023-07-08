@@ -1,0 +1,13 @@
+<mxfile host="app.diagrams.net" modified="2023-07-08T11:56:15.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="dWc0uo2nwsV827ENmyLV" version="21.6.1" type="device">
+  <diagram name="Trang-1" id="b2v1x1p0PFLmLoqMMKEM">
+    <mxGraphModel dx="934" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="6YlRq3o870FWqIgoiZgx-10" value="Ứng dụng bán điện thoại" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
